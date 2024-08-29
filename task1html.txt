@@ -1,0 +1,76 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>hero</h1>
+
+<p><dfn><abbr title="heros in world">css</abbr>
+</dfn> is a language that describes the style of an HTML document.</p>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<body>
+
+2) Address
+
+<h1>The address </h1>
+
+<address>
+Written by <a href=>nanu </a>.<br> 
+Visit us at: nag<br>
+Example.com: nanu.com<br>
+plot 564, nagpur<br>
+maharastra
+</address>
+
+</body>
+</html>
+<h1>The area </h1>
+
+<p>look at the iron man pic:</p>
+
+<img src="C:\Users\khume\OneDrive\Pictures\wall\115019.jpg" alt="Workplace" usemap="#workmap" width="400" height="379">
+
+<map name="workmap">
+  <area shape="rect" coords="34,44,270,350" alt="Computer" href="computer.htm">
+  <area shape="rect" coords="290,172,333,250" alt="Phone" href="phone.htm">
+  <area shape="circle" coords="337,300,44" alt="Cup of coffee" href="coffee.htm">
+</map>
+
+</body>
+</html>
+
+
+<article>
+    <h2>man</h2>
+    <p>man is relase super human create in on lab at any time!</p>
+    </article>
+
+<html>
+<head>
+<style>
+aside {
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: italic;
+  background-color: rgb(105, 27, 27);
+}
+</style>
+</head>
+<body>
+
+<h1>biker</h1>
+
+<p>i love my bike 
+<aside>
+<p> new bike hunter <img s ="C:\Users\khume\OneDrive\Pictures\wall\1287136.jpg".</p>
+</aside>
+
+</body>
+</html>
